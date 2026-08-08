@@ -24,3 +24,7 @@
 [![KAGGLE_BADGE]][KAGGLE_SITE]
 
 Um Dashboard de Vendas da Amazon feito a partir do dataset obtido no [Kaggle][KAGGLE_DATASET]. Além das informações contidas nesse dataset, foram acrescentadas informações sobre o valor do dólar e das ações da Amazon.
+
+## Demo
+
+[Vídeo de Demonstração do Dashboard](https://github.com/user-attachments/assets/c5cc7a90-dd2c-4f9e-b729-1a5f56f0874a)
